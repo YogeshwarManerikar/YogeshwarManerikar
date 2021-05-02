@@ -1,9 +1,9 @@
 ### Hi there, I am Yogeshwar 👋
+I am Postgraduate in Computer Applications(MCA). Data exists me to extract insights from it. 
 
 
 
-Here are some ideas to get you started:
-
+- 😄 Pronouns: योगेश्वर 
 - 🔭 I’m currently Studying at Goa University 
 - 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate on Youtube
@@ -16,6 +16,20 @@ Here are some ideas to get you started:
     [Kaggle](https://www.kaggle.com/yogeshwarmanerikar/)
     [QuickLabs](https://www.qwiklabs.com/public_profiles/25c12658-a564-43db-995f-c498f613ddad)
     [GoogleLocalGuide](https://www.google.co.in/maps/contrib/108671189139888509076/contribute)
+    
+ ### Intrested in :
+   - Data Analysis
+   - Creating Insights , Dashboard , Basic Model in ML
+   - Web Development(Frontend)
+   - Data Science
+   - Statistical Analysis
+ ### Languages and tools :
+ 
+     
+ ### [GitStats](https://gitstats.me/YogeshwarManerikar)
+ 
+![GitStats](https://github-readme-stats.vercel.app/api?username=YogeshwarManerikar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+     
 
-- 😄 Pronouns: योगेश्वर 
+
 -->
