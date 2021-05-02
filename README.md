@@ -24,6 +24,13 @@ I am Postgraduate in Computer Applications(MCA). Data exists me to extract insig
    - Data Science
    - Statistical Analysis
  ### Languages and tools :
+     -python 
+     -c
+     -NodeJs
+     -PowerBi
+     -GoogleCollabs
+     -Excel
+     -SQL
  
      
  ### [GitStats](https://gitstats.me/YogeshwarManerikar)
@@ -32,4 +39,3 @@ I am Postgraduate in Computer Applications(MCA). Data exists me to extract insig
      
 
 
--->
