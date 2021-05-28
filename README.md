@@ -31,7 +31,7 @@ I am Postgraduate in Computer Applications(MCA). Data exists me to extract insig
      -GoogleCollabs
      -Excel
      -SQL
-     
+  ![33467679](https://user-images.githubusercontent.com/50474388/120026249-6ebf3800-c00f-11eb-8674-d436793ba6d8.png)
   ![WhatsApp Image 2021-05-28 at 11 31 36 PM(2)](https://user-images.githubusercontent.com/50474388/120024603-15560980-c00d-11eb-8f2c-1ebdb2df2d73.jpeg)
      ![WhatsApp Image 2021-05-28 at 11 31 36 PM](https://user-images.githubusercontent.com/50474388/120024633-1edf7180-c00d-11eb-9d9e-6577e9a9aeb5.jpeg)
      ![WhatsApp Image 2021-05-28 at 11 31 35 PM(2)](https://user-images.githubusercontent.com/50474388/120024645-23a42580-c00d-11eb-912e-eeaad746ec80.jpeg)
