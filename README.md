@@ -31,6 +31,12 @@ I am Postgraduate in Computer Applications(MCA). Data exists me to extract insig
      -GoogleCollabs
      -Excel
      -SQL
+     ![WhatsApp Image 2021-05-28 at 11 31 36 PM(2)](https://user-images.githubusercontent.com/50474388/120024603-15560980-c00d-11eb-8f2c-1ebdb2df2d73.jpeg)
+     ![WhatsApp Image 2021-05-28 at 11 31 36 PM](https://user-images.githubusercontent.com/50474388/120024633-1edf7180-c00d-11eb-9d9e-6577e9a9aeb5.jpeg)
+     ![WhatsApp Image 2021-05-28 at 11 31 35 PM(2)](https://user-images.githubusercontent.com/50474388/120024645-23a42580-c00d-11eb-912e-eeaad746ec80.jpeg)
+     ![WhatsApp Image 2021-05-28 at 11 31 35 PM(1)](https://user-images.githubusercontent.com/50474388/120024657-269f1600-c00d-11eb-889f-8e519ad8142c.jpeg)
+     ![WhatsApp Image 2021-05-28 at 11 31 35 PM](https://user-images.githubusercontent.com/50474388/120024666-29017000-c00d-11eb-9622-2eae8357cc19.jpeg)
+     ![WhatsApp Image 2021-05-28 at 11 31 36 PM(1)](https://user-images.githubusercontent.com/50474388/120024675-2b63ca00-c00d-11eb-81b8-af961365d943.jpeg)
  
      
  ### [GitStats](https://gitstats.me/YogeshwarManerikar)
